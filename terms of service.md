@@ -1,8 +1,8 @@
-# [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot) Terms of Service
+# [Panda Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot) Terms of Service
 
 Last Updated: 06/09/2023
 
-Welcome to [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_id=1141088125419008108&permissions=8&scope=bot)! These Terms of Service (the "Terms") govern your use of [Your Music Bot Name] (the "Bot"), a music bot for Discord. By using the Bot, you agree to comply with these Terms. If you do not agree with these Terms, please do not use the Bot.
+Welcome to [Panda Bot](https://discord.com/api/oauth2/authorize?client_id=1147922050065895444&permissions=8&scope=bot)! These Terms of Service (the "Terms") govern your use of [Panda Bot](https://discord.com/api/oauth2/authorize?client_id=1147922050065895444&permissions=8&scope=bot)
 
 ## 1. Bot Usage
 
@@ -12,7 +12,6 @@ Welcome to [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_i
 
 ## 2. Bot Features
 
-2.1. **Functionality:** [Your Music Bot Name] is designed to [briefly describe the primary functionality of the Bot, e.g., play music in Discord servers]. We reserve the right to modify or discontinue any features of the Bot at any time without notice.
 
 2.2. **Availability:** We do not guarantee continuous or uninterrupted access to the Bot, and we may temporarily or permanently suspend access to the Bot without notice for maintenance, upgrades, or other reasons.
 
@@ -26,7 +25,7 @@ Welcome to [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_i
 
 ## 4. Intellectual Property
 
-4.1. **Ownership:** [Your Music Bot Name] and its related content, including but not limited to logos, text, and graphics, are the intellectual property of [Your Company Name] and are protected by copyright and other intellectual property laws.
+4.1. **Ownership:** [Panda Bot](https://discord.com/api/oauth2/authorize?client_id=1147922050065895444&permissions=8&scope=bot) and its related content, including but not limited to logos, text, and graphics, are the intellectual property of [Dynasty Dev Center](https://discord.gg/5sWatSkSCY) and are protected by copyright and other intellectual property laws.
 
 4.2. **License:** We grant you a limited, non-exclusive, non-transferable license to use the Bot in accordance with these Terms.
 
@@ -54,7 +53,7 @@ Welcome to [Sanhaji Music Bot](https://discord.com/api/oauth2/authorize?client_i
 
 10.1. **Contact:** For any questions or concerns about these Terms, please contact us at [Server Support](https://discord.gg/5sWatSkSCY).
 
-By using [Your Music Bot Name], you agree to abide by these Terms of Service. Thank you for using our Bot!
+By using [Panda Bot](https://discord.com/api/oauth2/authorize?client_id=1147922050065895444&permissions=8&scope=bot), you agree to abide by these Terms of Service. Thank you for using our Bot!
 
 ---
 
