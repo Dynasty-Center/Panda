@@ -1,49 +1,56 @@
-# Sanhaji Music Bot Privacy Policy
+# Dynasty Dev Centre
 
-Last Updated: 06/09/2023
+# Dynasty-DiscordBot-PrivacyPolicy
+Privacy Policy of Dtnasty DiscordBot
 
-## 1. Introduction
+# Privacy Policy
 
-Welcome to [Sanhaji music bot](https://discord.gg/5sWatSkSCY). This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the Bot. By using the Bot, you agree to the practices described in this Privacy Policy.
+### By using **[Dynasty](https://discord.com/api/oauth2/authorize?client_id=1131780123956363375&permissions=8&scope=bot)**, you agree to the following **Privacy Policy.**
+#### [Invite Dynasty](https://discord.com/api/oauth2/authorize?client_id=1131780123956363375&permissions=8&scope=bot)
 
-## 2. Information We Collect
+## What information is stored?
 
-2.1. **User-Provided Information:** When you use the Bot, you may provide us with information, such as your Discord username, server information, and commands you use with the Bot.
+- Dtnasty stores your userid if you've found a bug.
+- Dtnasty also stores your userid if you were in our [Support Server](https://discord.gg/5sWatSkSCY)
+- If at any time you were blacklisted, temporary or permanent from our bot, **blacklist information will be stored**.
+- When you get blacklisted **your userid, the admins userid, the date, and reason are stored**.
+- If you get muted, kicked or banned from a guild, **your userid is stored**.
+- If your guild sets a **modlog, mutedrole or prefix, the guild id, channel-id, prefix, and/or roleid gets stored**.
+- If you leave and rejoin a guild, **your userid is stored in order to reapply the roles** *if the module is enabled by server administrator*.
+- If you set a reminder, **your userid is stored **. It does not store user data which was not provided through a command.
+- if you set an afk (away) command, **your userid is stored**. It does not store user data which was not provided through a command.
 
-2.2. **Automatically Collected Information:** We may collect certain information automatically when you use the Bot, including your IP address, device information, and usage data.
+## Why we store the information and how we use it.
 
-## 3. How We Use Your Information
+- This information is stored in order to notify the bot **if you're allowed to run certain commands or not**.
+- The muted data is stored in order **to keep you muted temporarily and to re-apply your mute if you leave and re-join the server**.
+- The banned data is stored in order **to keep you temporarily banned and to unban after the certain defined period of time is over**.
+- The prefix and modlog information is used for the bot **to know where to send modlog messages and what prefix to respond to**.
+- The mute role information is used in order **to apply a custom muted role when someone gets muted**.
+- The profile data is stored in order **for us to put custom information on your profile**.
+- The userid is **stored for all of the above and for the express purpose of redisplaying**.
 
-3.1. **To Provide Services:** We use your information to operate and maintain the Bot and provide you with the requested services.
+##  Who can read this data?
 
-3.2. **To Improve Services:** We may use your information to analyze and improve the functionality and performance of the Bot.
+- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by Dtnasty Admins/Developers**.
+- **All Muted, Mutedrole, Prefix, and Modlog data can be accessed by Dtnasty Admins/Developers**. Only **server administrator/moderators can see their own guild modlogs other if they wish to make it public**.
+- **Suggestions and/or bug reports can be seen by anyone in our [Support Server](https://discord.gg/5sWatSkSCY)**
 
-## 4. Information Sharing
+## Questions and Concerns.
 
-4.1. **Third-Party Services:** We may share your information with third-party services that help us operate and maintain the Bot.
+If you are **concerned about the data stored, or have any questions, [Join the Official Support Server](https://discord.gg/5sWatSkSCY)** and open a ticket.
 
-4.2. **Legal Requirements:** We may disclose your information if required by law or if we believe that such action is necessary to comply with a legal obligation or protect our rights, interests, or property.
 
-## 5. Data Security
+## How to Remove your data.
 
-5.1. **Security Measures:** We take reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+**If you would like to remove your data, you run the command `mydata forgetme`.**
+*This will cause the bot to get rid of and/or disassociate data from you.
+Clearing this data does not clear blacklist data or muted data.*
 
-## 6. Your Choices
+**If you want more detailed removal of your data, [Join our Discord Server](https://discord.gg/5sWatSkSCY) and request it.**
 
-6.1. **Access and Correction:** You can access and update your information by contacting us at [Discord Server Support](https://discord.gg/5sWatSkSCY).
+### ***Note: __We reserve the right to change this without notifying our users.__***
+##### This policy was last updated on novembre 14th, 2023.
 
-## 7. Children's Privacy
 
-7.1. **Age Restriction:** The Bot is not intended for use by individuals under the age of 13. We do not knowingly collect or solicit personal information from individuals under 13.
-
-## 8. Changes to this Privacy Policy
-
-8.1. **Changes:** We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website.
-
-## 9. Contact Information
-
-9.1. **Contact:** If you have any questions or concerns about this Privacy Policy, please contact us at [Discord Server Support](https://discord.gg/5sWatSkSCY).
-
----
-
-**Dynasty Team**
+## [Invite Dtnasty](https://discord.com/api/oauth2/authorize?client_id=1131780123956363375&permissions=8&scope=bot)
